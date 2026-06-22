@@ -1,5 +1,7 @@
 # Bank Transaction Clustering & Classification
 
+**NOTE: THIS README FILE IS AI GENERATED.**
+
 This project is a submission for a machine learning module by **Dicoding Indonesia**. Main structures and template are made by the Dicoding. 
 This project contains a machine learning workflow for analyzing bank transaction data using both **Clustering** and **Classification** techniques. 
 
